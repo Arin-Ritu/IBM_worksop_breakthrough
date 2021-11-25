@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "async": "^1.5.0",
+    "@cloudant/cloudant": "^2.0.1"
+  }
+}
